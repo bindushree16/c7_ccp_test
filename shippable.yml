@@ -15,6 +15,6 @@ build:
     - ls
     - pwd
     - java --version
-    - node -version
+    - node -v
     - ruby -v
     - python --version
