@@ -16,5 +16,4 @@ build:
     - pwd
     - java --version
     - node -v
-    - ruby -v
     - python --version
