@@ -14,3 +14,7 @@ build:
   ci:
     - ls
     - pwd
+    - java --version
+    - node -version
+    - ruby -v
+    - python --version
